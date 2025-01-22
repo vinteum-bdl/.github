@@ -17,4 +17,5 @@ Bitcoin ecosystem.
 ## 😀 Join the community
 
 Open source is fundamental to Bitcoin and this project is not different. Most
-communications happen on the [Vinteum discord server](), come say hi!
+communications happen on the [Vinteum discord
+server](https://discord.gg/N5RAvC8Zqk), come say hi!
