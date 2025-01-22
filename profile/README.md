@@ -9,9 +9,10 @@ talented programmers, improve their bitcoin knowledge and skills, and provide
 the means to help them turn into full-time open source contributors if that's
 aligned with their personal ambitions. The Bitcoin Dev Launchpad is built upon
 the [Chaincode Labs'](https://learning.chaincode.com), [BTrust
-Builders](https://www.btrust.tech/builders), and
-[B4OS](https://www.libreriadesatoshi.com/b4os) programmes, adding to the
-educational Bitcoin ecosystem.
+Builders](https://www.btrust.tech/builders),
+[B4OS](https://www.libreriadesatoshi.com/b4os), and [Summer of
+Bitcoin](https://www.summerofbitcoin.org) programmes, adding to the educational
+Bitcoin ecosystem.
 
 ## 😀 Join the community
 
